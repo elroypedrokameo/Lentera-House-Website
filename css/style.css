@@ -1,0 +1,52 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.headerr {
+    color: #999999;
+    font-size: 18px;
+}
+
+.headerr:active {
+    color: #000000;
+}
+
+.jumbotron {
+    background-color: white;
+}
+
+.jumbotron h1 {
+    font-size: 48px;
+    font-weight: 600;
+}
+
+.alight {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #999999;
+}
+
+.section-stats {
+    margin-top: 50px;
+}
+
+.statistik {
+    margin-right: 20px;
+}
+
+.statistik h2 {
+    font-size: 32px;
+}
+
+.statistik h2 span {
+    color: #8080FF;
+}
+
+.statistik p {
+    color: #999999;
+}
+
+.search-form {
+    margin-left: -15px;
+    background-color: #F7F7F9;
+}
