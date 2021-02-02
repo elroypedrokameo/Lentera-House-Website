@@ -12,11 +12,12 @@
 }
 
 .jumbotron {
+    width: 1272px;
     background-color: white;
 }
 
 .jumbotron h1 {
-    font-size: 48px;
+    font-size: 42px;
     font-weight: 600;
 }
 
@@ -31,7 +32,7 @@
 }
 
 .statistik {
-    margin-right: 20px;
+    margin-right: 55px;
 }
 
 .statistik h2 {
@@ -46,7 +47,57 @@
     color: #999999;
 }
 
+.search label {
+    color: #999;
+    margin-top: 10px;
+}
+
 .search-form {
-    margin-left: -15px;
-    background-color: #F7F7F9;
+    border: 0px solid #999;
+    width: 350px;
+    height: 40px;
+    display: block;
+    background-color: #ebebec;
+}
+
+.search-form::placeholder {
+    color: black;
+}
+
+.btn-primary {
+    display: block;
+    background-color: #FF9376;
+    margin-top: 10px;
+    border-radius: 0px;
+}
+
+.btn-primary:hover {
+    background-color: #8080FF;
+}
+
+.hero-left {
+    float: left;
+    width: 45%;
+}
+
+.hero-right {
+    float: right;
+    width: 45%;
+    height: 370px;
+    background-color: #8080FF;
+    margin-top: 95px;
+    margin-right: 120px;
+}
+
+.hero-right img {
+    width: 543px;
+    margin-top: -168px;
+}
+
+.section-network {
+    margin-top: 450px;
+}
+
+.section-network img {
+    width: 80%;
 }
