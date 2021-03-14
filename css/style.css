@@ -68,8 +68,7 @@
 .btn-primary {
     display: block;
     background-color: #FF9376;
-    margin-top: 10px;
-    /* border-radius: 0px; */
+    margin-top: 15px;
     border: none;
 }
 
@@ -97,7 +96,7 @@
 }
 
 .section-network {
-    margin-top: 500px;
+    margin-top: 490px;
 }
 
 .section-network img {
